@@ -1,3 +1,3 @@
-## Programa Simples em C
+# Programa Simples em C
 
-# Programa desenvolvio para a aula de Algoritmos e Estrutura de Dados
+## Programa desenvolvio para a aula de Algoritmos e Estrutura de Dados
